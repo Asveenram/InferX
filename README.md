@@ -137,6 +137,4 @@ Distributed systems design · concurrency · fault tolerance · networking · sy
 
 ---
 
-<div align="center">
-<sub>Built by <a href="https://github.com/vishnu-murukan">Vishnu Murukan</a></sub>
-</div>
+
